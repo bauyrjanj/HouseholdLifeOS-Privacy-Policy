@@ -142,8 +142,23 @@
 <p>Where required by applicable law, We will ensure that international transfers of Your Personal Data are subject to appropriate safeguards and supplementary measures where appropriate. The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>
 <h3>Delete Your Personal Data</h3>
 <p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
-<p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
-<p>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any Personal Data that You have provided to Us.</p>
+<p>Our Service gives You the ability to delete your account and all associated data directly within the app:</p>
+<ol>
+<li>Open the HouseholdLifeOS app</li>
+<li>Tap the <strong>Profile</strong> tab (bottom right navigation)</li>
+<li>Scroll to the bottom of the screen</li>
+<li>Tap <strong>"Delete Account"</strong> (shown in red below Sign Out)</li>
+<li>Confirm deletion through two confirmation dialogs</li>
+</ol>
+<p>Upon confirmation, the following data is permanently and immediately deleted:</p>
+<ul>
+<li>Your account credentials and profile</li>
+<li>All household tasks and recurring templates</li>
+<li>All AI weekly briefings</li>
+<li>Your household membership</li>
+</ul>
+<p>This action cannot be undone.</p>
+<p>Alternatively, you may request account deletion by emailing <a href="mailto:b.jyenis@gmail.com">b.jyenis@gmail.com</a> with subject "Account Deletion Request" and your registered email address. We will process your request within 30 days.</p>
 <p>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>
 <h3>Disclosure of Your Personal Data</h3>
 <h4>Business Transactions</h4>
